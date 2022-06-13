@@ -1,22 +1,20 @@
-{
-    "Viper-lineups": [
-      {
-        "Title": "CT",
-        "Map": "Ascent",
-        "Site": "B",
-        "Abilitý": "Snake Bite",
-        "img-position":"../assets/img/lineup-1.png",
-        "img-lineup":"../assets/img/lineup-1-1.png",
-        "video-preview":"../assets/videos/video1.mp4"
-      },
-      {
-        "Title": "CT",
-        "Map": "Ascent",
-        "Site": "B",
-        "Abilitý": "Snake Bite",
-        "img_position":"../assets/img/lineup-1.png",
-        "img_lineup":"../assets/img/lineup-1-1.png",
-        "video_preview":"../assets/videos/video1.mp4"
-      }
-    ]
+[
+  {
+    "Title": "CT",
+    "Map": "Ascent",
+    "Site": "B",
+    "Abilitý": "Snake Bite",
+    "img-position":"../assets/img/lineup-1.png",
+    "img-lineup":"../assets/img/lineup-1-1.png",
+    "video-preview":"../assets/videos/video1.mp4"
+  },
+  {
+    "Title": "CT",
+    "Map": "Ascent",
+    "Site": "B",
+    "Abilitý": "Snake Bite",
+    "img_position":"../assets/img/lineup-1.png",
+    "img_lineup":"../assets/img/lineup-1-1.png",
+    "video_preview":"../assets/videos/video1.mp4"
   }
+]
