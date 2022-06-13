@@ -1,0 +1,31 @@
+@import url(./base.css);
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 120px;
+}
+.menu-nav{
+    display: flex;
+}
+.logo {
+    margin: 15px 0 0 80px;
+    color: var(--font-color-primary);
+    font-family: var(--font-family-body);
+    font-size: 54px;
+}
+.option-nav {
+    list-style: none;
+    line-height: 60px;
+}
+.option-nav:hover{
+    transform: scale(1.2);
+}
+.button-nav {
+    margin: 0 30px 0 0;
+    color: var(--font-color-primary);
+    font-family: var(--font-family-body);
+}
+.button-nav:hover {
+    color: var(--font-color-secondary);
+}

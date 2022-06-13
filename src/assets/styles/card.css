@@ -1,0 +1,75 @@
+@import url(./base.css);
+.card-lineup {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(16, 26, 19, 0.7);
+  border-radius: 35px;
+  margin: 10px auto;
+}
+.title-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 80px;
+  height: 80px;
+    
+}
+.title {
+  font-family: var(--font-family-body);
+  font-size: 36px;
+  color: var(--font-color-primary);
+  margin: auto 0;
+  height: max-content;
+  margin-bottom: 15px;
+}
+.fa-solid {
+  color: white;
+}
+.info-lineup {
+  display: flex;
+  justify-content: space-around;
+
+}
+.info-details {
+  display: flex;
+}
+.title-info {
+  font-weight: bold;
+}
+.-info {
+  font-family: var(--font-family-body);
+  color: gray;
+  margin: 0 5px;
+  margin-bottom: 10px
+}
+
+.images-lineup {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.-image-info {
+  width: 50%;
+}
+.video-lineup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(16, 26, 19, 0.9);
+}
+.video-preview {
+    margin: 0 auto;
+    padding: 20px;
+    width: 70%;
+    height: 70%;
+}
+.fa-solid:hover {
+  color: var(--font-color-secondary);
+}
+
+.-hide{
+    display: none;
+}

@@ -1,0 +1,7 @@
+@import url('http://fonts.cdnfonts.com/css/valorant');
+
+:root {
+    --font-family-body: 'VALORANT', sans-serif;
+    --font-color-primary: white;    
+    --font-color-secondary: #20840c;                                       
+}
