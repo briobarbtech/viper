@@ -3,11 +3,11 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 50%;
+  width: 30%;
   margin: 0 auto;
   background-color: rgb(16, 26, 19, 0.7);
   border-radius: 35px;
-  margin: 10px auto;
+  margin: 10px 10px;
 }
 .title-div {
   display: flex;

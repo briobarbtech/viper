@@ -1,7 +1,15 @@
 @import url(./assets/styles/card.css);
 @import url(./assets/styles/nav.css);
-
+*{
+  padding: 0;
+  margin: 0;
+}
 body {
   background-image: url(./assets/img/background/desktop.png);
   background-size:100%;
+}
+
+main {
+  display: flex;
+  justify-content: center;
 }
